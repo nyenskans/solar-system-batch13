@@ -15,5 +15,12 @@ public class Main {
         omaro.name="ferro";
         omaro.radius=1234455;
         omaro.color="pink";
+
+        // planet x1
+        PlanetX1 x1 = new PlanetX1();
+        x1.color="red";
+        x1.size="433243";
+        x1.radius="545656";
+        
     }
     }
