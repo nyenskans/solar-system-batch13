@@ -9,5 +9,11 @@ public class Main {
 
         System.out.println("the basic structure is ready ");
 
+        //    developing the feature SUN
+        SUN omaro=new SUN();
+        omaro.temperature="12334433kj";
+        omaro.name="ferro";
+        omaro.radius=1234455;
+        omaro.color="pink";
     }
-}
+    }
